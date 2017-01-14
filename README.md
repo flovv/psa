@@ -3,7 +3,7 @@
 Contact: [Jason Bryer](http://jason.bryer.org) ([jason@bryer.org](mailto:jason@bryer.org))  
 Early draft of the [Applied Propensity Score Analysis with R](http://jason.bryer.org/psa) book.
 
-View the PSA Shiny app at [jbryer.shinyapps.io/jbryer/psashiny](http://jbryer.shinyapps.io/jbryer/psashiny)
+View the PSA Shiny app at [https://jbryer.shinyapps.io/psashiny/](https://jbryer.shinyapps.io/psashiny/)
 
 ## Overview
 
